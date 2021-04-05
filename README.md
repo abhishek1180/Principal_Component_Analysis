@@ -1,1 +1,2 @@
-# Principal_Component_Analysis
+### Principal_Component_Analysis
+It is a dimensionality reduction technique to reduce the dimensionality of data sets with large set of variables, by transforming it into a smaller set of variables that still contains most of the information in the large set. We transform the variables into the new variables, and check how well they predict our dependent variable, figure out which variable is the most important and least important, and drop the “least important” variables.
